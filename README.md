@@ -10,4 +10,15 @@ I only work on what interests me, when it interests me, and I don't hesitate to 
 
 ## Languages
 
-My main languages are JavaScript and Java/Kotlin. For the rest, I admittedly couldn't write a complex program from start to finish, but I get by well enough to build small programs here and there, understand most things when I read them, and contribute to add whatever I want to add.
+My main languages are JavaScript and Java/Kotlin and starting this year, mostly rust. For the rest, I admittedly couldn't write a complex program from start to finish, but I get by well enough to build small programs here and there, understand most things when I read them, and contribute to add whatever I want to add.
+
+## Today, I('m) :
+
+- Code mostly in rust.
+- Making public almost all my personal project (big commit as i love to do (i hate making commit sry))
+- Still very bad at UI/UX
+- Loving rust.
+- Starting to contribute as much as i can in projects i love.
+- Still don't comment my code, i know it's a very very bad pratice if i work with others people but i fricking hate making comment (as much as i hate making commit, so a lot).
+- Work on random project
+- Fully switched on Linux (no more Windows distro)
