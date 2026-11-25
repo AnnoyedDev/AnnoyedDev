@@ -10,7 +10,7 @@ I only work on what interests me, when it interests me, and I can easily put hou
 
 ## Languages
 
-My main languages are JavaScript and Java/Kotlin and starting this year, mostly rust. For the rest, I admittedly couldn't write a complex program from start to finish, but I get by well enough to build small programs here and there, understand most things when I read them, and contribute to add whatever I want to add.
+My main languages are JavaScript (Node.JS for 95% of project) and Java/Kotlin and starting this year, mostly rust. For the rest, I admittedly couldn't write a complex program from start to finish, but I get by well enough to build small programs here and there, understand most things when I read them, and contribute to add whatever I want to add.
 
 ## Today, I('m) :
 
