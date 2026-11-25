@@ -1,12 +1,12 @@
 # Hi, I'm AnnoyedDev
 
-I'm passionate about computers and technology, and I've been coding since I was 14.
+I love computers and technology, and I've been coding since I was 14.
 
-I started with Java (back then it was for Minecraft), then moved on to Kotlin. After that I went to JavaScript, with a lot of Node.js, then a tiny bit of TypeScript, then Python. I'm interested in anything that has to do with programming. I even got into GLSL at some point. I also dabble in C and C++, and I've since branched off into Rust.
+I started with Java (for Minecraft, back then) and moved on to Kotlin. After that came JavaScript with a lot of Node.js, a tiny bit of TypeScript, then Python. Pretty much anything to do with programming interests me: I even got into GLSL at some point, I dabble in C and C++, and I've since branched off into Rust.
 
-The vast majority of my projects have been private or personal, and unfortunately I've never worked professionally. Coding has always been a hobby for me.
+Almost all of my projects have been private or personal. Coding has always been a hobby for me, and unfortunately I've never done it professionally.
 
-I only work on what interests me, when it interests me, and I don't hesitate to put hours and hours a day into a single project. Over the last few months I've started sharing my small projects here and there, and I've also started wanting to contribute however I can to various projects I love.
+I only work on what interests me, when it interests me, and I can easily put hours a day into a single project. Over the last few months I've started sharing my small projects here and there, and I now want to contribute however I can to the projects I love.
 
 ## Languages
 
